@@ -1,1 +1,2 @@
 *.wikitext linguist-language=MediaWiki
+"*.wiki" linguist-language=MediaWiki
