@@ -8,7 +8,7 @@
 | titlestyle = background:#efefef;color:var(--color-base,#202122);
 | title = [[নৃবিজ্ঞান]]
 | listtitlestyle = background:#efefef;color:var(--color-base,#202122);text-align:left;
-| expanded = {{{expanded|{{{1|}}}}}}
+| expanded = <includeonly>{{{expanded|{{{1|}}}}}}</includeonly><noinclude>all</noinclude>
 | abovestyle = border:none;padding-bottom:0.5em;
 | above = {{hlist |[[নৃবিজ্ঞানের রূপরেখা|রূপরেখা]] |[[নৃবিজ্ঞানের ইতিহাস|ইতিহাস]]}}
 | list1name = types
@@ -173,7 +173,7 @@
 | titlestyle = background:#efefef;color:var(--color-base,#202122);
 | title = [[Anthropology]]
 | listtitlestyle = background:#efefef;color:var(--color-base,#202122);text-align:left;
-| expanded = {{{expanded|{{{1|}}}}}}
+| expanded = <includeonly>{{{expanded|{{{1|}}}}}}</includeonly><noinclude>all</noinclude>
 | expanded = all <!-- এটি কেবল টেস্ট করার সময়ে থাকবে -->
 | abovestyle = border:none;padding-bottom:0.5em;
 | above = {{hlist |[[Outline of anthropology|Outline]] |[[History of anthropology|History]]}}
